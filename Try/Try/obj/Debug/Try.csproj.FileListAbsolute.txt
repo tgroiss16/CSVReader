@@ -1,0 +1,6 @@
+C:\Users\Tobi\Desktop\Try\Try\bin\Debug\Try.exe.config
+C:\Users\Tobi\Desktop\Try\Try\bin\Debug\Try.exe
+C:\Users\Tobi\Desktop\Try\Try\bin\Debug\Try.pdb
+C:\Users\Tobi\Desktop\Try\Try\obj\Debug\Try.csprojAssemblyReference.cache
+C:\Users\Tobi\Desktop\Try\Try\obj\Debug\Try.exe
+C:\Users\Tobi\Desktop\Try\Try\obj\Debug\Try.pdb
